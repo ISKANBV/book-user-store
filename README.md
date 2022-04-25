@@ -37,5 +37,5 @@ I use dao and dto design patterns
 Also I have Security configuration , Authentication with jwt.
 
 
-Note:I recommend checking the project with a postman. There may be a problem with the swagger.
+Note:I recommend checking the project with a postman. There may be a problem with the swagger.I use PostgreSql.You can change database properties in application properties for checking.
 
